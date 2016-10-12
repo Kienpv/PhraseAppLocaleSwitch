@@ -1,0 +1,6 @@
+<ul>
+  <!--<li><%= link_to 'English', "http://localizer.com:3000#{request.env['PATH_INFO']}" %></li>-->
+  <!--<li><%= link_to 'Polska', "http://localizer.pl:3000#{request.env['PATH_INFO']}" %></li>-->
+  <li><%= link_to 'English', root_path(locale: :en) %></li>
+  <li><%= link_to 'Polska', root_path(locale: :pl) %></li>
+</ul>
