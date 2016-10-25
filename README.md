@@ -1,24 +1,3 @@
-# README
+Source code for the [Setting and Managing Locales in Rails i18n](https://phraseapp.com/blog/posts/rails-i18n-setting-and-managing-locales/) article.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created by [Ilya Bodrov](http://ilyabodrov.me/).
